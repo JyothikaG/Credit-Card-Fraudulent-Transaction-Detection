@@ -6,6 +6,7 @@ Increase in e-commerce and the ease of online transactions and payments has led 
 The most common method of payment for online purchase is credit card. Credit-card-based purchases can be categorized into two types: 
 1) physical card and 2) virtual card. When the user is present physically with the card during the transaction, it is categorized as Physical purchasing.
 2) Especially all credit card operations are performed by web payment gateways, e.g., PayPal and Alipay.
+   
 **PROBLEM AND SOLUTION OF THE PROJRCT**
 • The popularization of online shopping transaction fraud is growing seriously.
 • First, we totally order the attributes of transaction records, and then classify the
@@ -27,11 +28,13 @@ models will be used on a credit card transaction dataset.
 • Outlier detection the computation and memory required for the credit card fraud
 detection is much less in addition to its working faster and better in online large datasets.
 But their work and results showed that IForest was more accurate and efficient.
+
 **SYSTEM REQUIREMENTS**
 The system requirement is a main part in the analyzing phase of the project. The
 of the project must properly analyze the hardware and the software requirements,
 otherwise in future the project designer will face more trouble with the hardware and
 software required. Below specified are the project hardware and software requirements.
+
 **SYSTEM ANALYSIS**
 Python features a dynamic type of system and automatic memory management. It
 supports multiple programming paradigms, including object oriented, imperative,
@@ -47,12 +50,14 @@ It has built in many very useful third-party libraries. Installing Anaconda is e
 to automatically installing Python and some commonly used libraries such as NumPy,
 Pandas, Scrip, and Matplotlib, so it makes the installation so much easier than regular
 Python installation.
+
 **TESTING PROCESS**
 The purpose of testing is to discover errors. Testing is the process of trying to discover
 every conceivable fault or weakness in a work product. It provides a way to check the
 functionality of components, sub-assemblies, assemblies and/or a finished product It is the
 process of exercising software with the intent of ensuring that the Software system meets
 its requirements and user expectations and does not fail in an unacceptable manner.
+
 **CONCLUSION**
 The model that we built helps the authorities to get notified of the fraud in credit-cards and
 take the further necessary steps over the transaction and label the transaction as fraud or legitimate transaction. 
