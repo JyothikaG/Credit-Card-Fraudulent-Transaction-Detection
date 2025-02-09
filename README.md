@@ -5,7 +5,7 @@ eavesdropping, phishing, intrusion, denial-of-service (DoS), database stealing, 
 Increase in e-commerce and the ease of online transactions and payments has led to an exponential increase in the number of people opting for online purchases. 
 The most common method of payment for online purchase is credit card. Credit-card-based purchases can be categorized into two types: 
 1) physical card and 2) virtual card. When the user is present physically with the card during the transaction, it is categorized as Physical purchasing.
-2) Especially all credit card operations are performed by web payment gateways, e.g., PayPal and Alipay.
+Especially all credit card operations are performed by web payment gateways, e.g., PayPal and Alipay.
    
 **PROBLEM AND SOLUTION OF THE PROJRCT**
 • The popularization of online shopping transaction fraud is growing seriously.
